@@ -13,6 +13,7 @@ This project attempts to finally allow users to hotswap fonts at their will.
 
 ## This is what it looks like:
 ![Image of the UI](thisiswhatitlookslike.png)
+(this menu can be found at "Window/Switch Fonts")
 
 ## Examples
 #### Consolas (Default Visual Studio font)
