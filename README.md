@@ -41,7 +41,7 @@ Fonts included in this project:
 
 [Comic Mono](https://github.com/dtinth/comic-mono-font)
 
-##Future plans
+## Future plans
 Right now the user still has to select and apply their font of preference. Preferably some way must be found to automatically apply the user's selected font when the editor starts.
 
 ## Last but not least...
